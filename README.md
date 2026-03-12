@@ -8,6 +8,8 @@ In this project you will build such a pipeline.
 
 ### Link to project
 https://github.com/dsaul3/Project-Build-an-ML-Pipeline-Starter/
+### Link to wandb
+https://wandb.ai/dsaul3-western-governors-university/nyc_airbnb/overview
 
 ## Table of contents
 
